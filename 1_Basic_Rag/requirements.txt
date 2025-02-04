@@ -1,0 +1,7 @@
+langchain
+openai
+chromadb
+imagine_sdk[langchain]
+langchain-community
+ipykernel
+python-dotenv
