@@ -5,3 +5,4 @@ imagine_sdk[langchain]
 langchain-community
 ipykernel
 python-dotenv
+langchain_chroma
